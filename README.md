@@ -41,6 +41,12 @@ open http://localhost:8000
 
 ## Configuration
 
+To fully customize your website, edit these files:
+1. [`config.js`](config.js) - Main configuration (discord, theme, particles, bio, social links, music)
+2. [`index.html`](index.html) - Meta tags, page title, and other HTML content
+3. [`sitemap.xml`](sitemap.xml) - Your website's sitemap for SEO
+4. [`robots.txt`](robots.txt) - Search engine crawler rules
+
 Edit [`config.js`](config.js) to customize your website:
 
 | Config Key | Description |
