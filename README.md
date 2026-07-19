@@ -14,7 +14,7 @@
 [Repository Layout](#repository-layout) ·
 [License](#license)
 
-![Bio-WebSite Preview](https://mudi.bio/assets/preview.png)
+![Bio-WebSite Preview](https://bio.mudi.bio/assets/preview.png)
 
 **Check out the live site at [bio.mudi.bio](https://bio.mudi.bio)**
 
