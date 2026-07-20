@@ -6,7 +6,7 @@
   Bio-WebSite
 </h1>
 
-**Bio-WebSite** is the official personal portfolio and bio website for Mudi — Full Stack Developer, CEO of Lunar Hub and Databreach, Verified & Trusted Seller. Features Discord status integration, music player, particle effects, and customizable theme/colors.
+**Bio-WebSite** is a professional, feature-rich, and fully customizable personal portfolio platform built with modern web technologies. It includes real-time Discord presence, Spotify integration, an immersive music player, advanced visual effects, customizable themes, and responsive design, delivering a premium user experience with zero external frameworks.
 
 [Quick Start](#quick-start) ·
 [Configuration](#configuration) ·
