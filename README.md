@@ -10,6 +10,7 @@
 
 [Quick Start](#quick-start) ·
 [Configuration](#configuration) ·
+[Lanyard Setup](#lanyard-discord-status-setup) ·
 [Features](#features) ·
 [Repository Layout](#repository-layout) ·
 [License](#license)
@@ -89,6 +90,14 @@ musicPlaylist: [
   }
 ]
 ```
+
+## Lanyard Discord Status Setup
+
+For the Discord status integration to work, you must join the official Lanyard Discord server:
+
+👉 [discord.gg/lanyard](https://discord.gg/lanyard)
+
+After joining, your Discord status will be available via the Lanyard API.
 
 ## Features
 
