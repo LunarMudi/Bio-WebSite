@@ -144,7 +144,7 @@ Key license terms:
 
 <div align="center">
   <p>
-    <strong>© 2025 Mudi · All rights reserved</strong>
+    <strong>© 2026 Mudi · All rights reserved</strong>
   </p>
   <p>
     <a href="https://github.com/LunarMudi/Bio-WebSite">
